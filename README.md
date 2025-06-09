@@ -1,4 +1,4 @@
-# AutoCAD-DesignBuilder-Simulation-Modeling-Assignment
+# AutoCAD-DesignBuilder-Simulation-Modeling
 # 🧱 AutoCAD to DesignBuilder: 2D to 3D Building Modeling
 
 ![AutoCAD](https://img.shields.io/badge/tool-AutoCAD-red?logo=autodesk)
