@@ -12,7 +12,7 @@ This repository contains my submission for the **AutoCAD Open-Ended Lab Assignme
 
 ## 📌 Project Overview
 
-This was completed as part of the **Numerical Technique Lab (EEE 3110)** at **Ahsanullah University of Science and Technology**.
+This was completed as part of the **AutoCAD Lab (EEE 3110)** at **Ahsanullah University of Science and Technology**.
 
 ### 🔨 Tools Used
 - **AutoCAD** – for 2D drafting of the building layout
