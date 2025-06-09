@@ -44,8 +44,7 @@ This was completed as part of the **Numerical Technique Lab (EEE 3110)** at **Ah
 
 ## 📷 Preview
 
-> *(Insert screenshots of your AutoCAD 2D layout and DesignBuilder 3D model here)*  
-> *(If you don't have them now, you can update this section later)*
+![screenshot](https://github.com/user-attachments/assets/dde63d56-fa09-4238-b7fe-e4d1007b31bf)
 
 ---
 
@@ -62,10 +61,3 @@ You can read the full lab report here:
 Department of EEE  
 AUST | Semester: 3-1  
 Student ID: `20210205167`
-
----
-
-## 📬 Feedback & Contributions
-
-Suggestions or questions? Feel free to open an issue or fork this repo and build upon it.
-
