@@ -53,6 +53,14 @@ This was completed as part of the **AutoCAD Lab (EEE 3110)** at **Ahsanullah Uni
 You can read the full lab report here:  
 📘 [DESIGNBUILDERReport_20210205167.pdf](./DESIGNBUILDERReport_20210205167.pdf)
 
+## 📦 Download DesignBuilder Project File
+
+You can download and explore the full **DesignBuilder simulation project file** below:
+
+🔗 [📁 1OELDESIGN.dsb](./1OELDESIGN.dsb)
+
+> 🛠 Open this file using DesignBuilder to view the complete 3D simulation model created from the original AutoCAD 2D layout.
+
 ---
 
 ## 🧑‍🎓 Author
